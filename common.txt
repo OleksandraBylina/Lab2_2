@@ -1,2 +1,2 @@
-Hello world!
-Привіт Mech-Mat!
+Hello world! 
+Добридень механіко-математичний!
